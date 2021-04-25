@@ -41,6 +41,6 @@
   ],
   "homepage": "https://phoqe.me/react-material-ui-firebase",
   "devDependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
